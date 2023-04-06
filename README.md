@@ -1,4 +1,4 @@
-## NTDCore.github.io or moniainfo.net
+## NTDCore.github.io
 
 Hello im Monia am suck at code real
 
