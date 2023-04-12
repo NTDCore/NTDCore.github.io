@@ -1,7 +1,6 @@
 ## NTDCore.github.io
 
-Hello im Monia am suck at code real
-
+Hello im Monia am suck at code real and i fixed Rise Target Info so real!11
 
 ### Private Scripts
 
