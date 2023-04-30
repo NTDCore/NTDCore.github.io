@@ -2,13 +2,15 @@
 
 Hello im Monia am suck at code real and i fixed Rise Target Info so real!11
 
-here rise if you want
+here rise that i fixed now am not gonna update it
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NTDCore/RiseForRoblox/main/main.lua", true))()
 ```
 
 ### Private Scripts
+
+i have 2 private scripts
 
 ```
 Prism
